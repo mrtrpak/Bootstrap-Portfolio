@@ -1,0 +1,45 @@
+body {
+    background-image: url(../photos/brushed_alu_dark_@2X.png);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* header, navbar, and name css editing */
+header {
+    border-bottom: 2px solid #ccc;
+    background-color: #fff;
+}
+
+h3 {
+    margin-top: 20px;
+    margin-bottom: 0;
+    padding: 10px;
+    text-align: center;
+    background-color: teal;
+    color: #fff;
+}
+
+.nav-link {
+    color: #777;
+    margin: auto;
+    transition: all 1s;
+
+}
+
+.nav-link:hover {
+    color: teal;
+    transform: scale(1.1);
+}
+
+.active {
+    font-weight: bold;
+    color: teal;
+}
+/* my media queries */
+@media (max-width: 640px) {
+    h3 {
+        margin: 0;
+    }
+}
