@@ -17,20 +17,36 @@
 
 <body>
     <div class="container-fluid">
-        <div>
-            <!-- 1st row (header) -->
-            <header class="row justify-content-around">
-                <h3 class="col col-sm-2 name">
-                    Michael Trpak
-                </h3>
-                <!-- navbar -->
-                <nav class="nav col col-auto">
-                    <a class="nav-link" href="index.html">Homepage</a>
-                    <a class="nav-link" href="portfolio.html">Portfolio</a>
-                    <a class="nav-link active" href="contact.html">Contact</a>
-                </nav>
-            </header>
-        </div>
+        <!-- 1st row (header) -->
+        <header class="row justify-content-around">
+            <h3 class="col col-sm-2 name">
+                Michael Trpak
+            </h3>
+            <!-- navbar -->
+            <nav class="nav col col-auto">
+                <a class="nav-link" href="index.html">Homepage</a>
+                <a class="nav-link" href="portfolio.html">Portfolio</a>
+                <a class="nav-link active" href="contact.html">Contact</a>
+            </nav>
+        </header>
+        <!-- 2nd row (contact form) -->
+        <section class="row Justify-content-md-center">
+            <h1 class="col col-4">Contact</h1>
+            <form class="col col-8">
+                <div class="form-group">
+                    <label for="exampleFormControlInput1">Full Name</label>
+                    <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Enter Full Name Here">
+                </div>  
+                <div class="form-group">
+                    <label for="exampleFormControlInput2">Email address</label>
+                    <input type="email" class="form-control" id="exampleFormControlInput2" placeholder="name@example.com">
+                </div>
+                <div class="form-group">
+                    <label for="exampleFormControlTextarea1">Example textarea</label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Write your message here"></textarea>
+                </div>
+            </form>
+        </section>
     </div>
 
     <!-- bootstrap javascript -->
