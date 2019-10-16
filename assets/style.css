@@ -1,6 +1,7 @@
 body {
     background-image: url(../photos/brushed_alu_dark_@2X.png);
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
     color: #777;
 }
 /* section content headers */
@@ -60,8 +61,13 @@ section {
     background-color: #fff;
 }
 
+.profilepic {
+    width: 175px;
+    height: 250px;
+}
+
 /* contact.html styles */
-.contactRow {
+.contentRow {
     margin-right: 15%;
     margin-left: 15%;
 }
@@ -75,5 +81,14 @@ section {
 @media (max-width: 640px) {
     h3 {
         margin: 0;
+    }
+
+    .profilepic {
+        float: none;
+        margin: 10px 20px 5px 20px;
+    }
+    .contentRow {
+        margin-bottom: 50px;
+    }
     }
 }
