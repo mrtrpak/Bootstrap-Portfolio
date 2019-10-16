@@ -9,6 +9,7 @@ h1 {
     color: teal;
     border-bottom: 2px solid #777;
     margin: 0;
+    margin-bottom: 10px;
 }
 /* header, navbar, and name css editing */
 header {
