@@ -89,7 +89,7 @@ section {
 .project {
     width: 150px;
     height: 175px;
-    margin: 50px 10px 10px 28px;
+    margin: 50px 10px 50px 28px;
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -109,29 +109,29 @@ section {
 h4 {
     background-color: teal;
     padding: 3px;
-    margin-top: 80%;
+    margin-top: 100%;
     font-size: 16px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .project1 {
-    background-image: url(../photos/beer.jpg);
+    background-image: url(https://media.giphy.com/media/IgLIVXrBcID9cExa6r/giphy.gif);
 }
 
 .project2 {
-    background-image: url(../photos/germanmeal.jpg);
+    background-image: url(https://media.giphy.com/media/12vJgj7zMN3jPy/giphy.gif);
 }
 
 .project3 {
-    background-image: url(../photos/lyric.jpg);
+    background-image: url(https://media.giphy.com/media/3o7btTIqXYcKdGhNSM/giphy.gif);
 }
 
 .project4 {
-    background-image: url(../photos/celtictree.jpg);
+    background-image: url(http://giphygifs.s3.amazonaws.com/media/10N782ExqDjCLK/giphy.gif);
 }
 
 .project5 {
-    background-image: url(../photos/sheriff.jpg);
+    background-image: url(http://giphygifs.s3.amazonaws.com/media/5YR0nMVQluuic/giphy.gif);
 }
 /* my media queries */
 @media (max-width: 640px) {
