@@ -153,6 +153,10 @@ h4 {
 .project10 {
     background-image: url(https://media.giphy.com/media/y0NFayaBeiWEU/giphy.gif);
 }
+
+.project11 {
+    background-image: url(https://media.giphy.com/media/l2R0actOL6bpMnIyI/giphy.gif);
+}
 /* my media queries */
 @media (max-width: 640px) {
     h3 {
