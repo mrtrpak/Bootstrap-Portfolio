@@ -12,6 +12,13 @@ I enjoy adding in my own touches and love putting in those "under the radar" fea
 
 The most difficult thing was just wrapping my head around how I go from a blank slate to where I get what I want. I was able to help over come this by focusing on one aspect first. I worked from the top down and my first goal was to get a clean and responsive header that I was happy with. Once I got there I celebrated that small victory! Then my next issue arose. I had trouble with creating the content within the page to look how I wanted. After a good bit of trail and error I was able to use a combo between the bootstrap and adding in my own css I got to the point that I was very pleased with.
 
+## Tools used
+
+* [Bootstrap](https://getbootstrap.com/)
+- CSS
+- Javascript
+- HTML
+
 ## Link
 
 [Portfolio Homepage](https://mrtrpak.github.io/Bootstrap-Portfolio/)
