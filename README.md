@@ -21,7 +21,8 @@ The most difficult thing was just wrapping my head around how I go from a blank 
 
 ## Link
 
-[Portfolio Homepage](https://mrtrpak.github.io/Bootstrap-Portfolio/)
+[Portfolio Homepage](https://mrtrpak.github.io)
+[Updated Portfolio](https://mrtrpak.github.io/my-page)
 
 ## Photos
 
